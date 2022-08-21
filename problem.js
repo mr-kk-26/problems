@@ -18,7 +18,7 @@ Example : 1
 INPUT :
 
 5- N (number of elements in an array)
-21 12 13 21 2 --- Array A consists of N elements
+21 12 13 21 -2 --- Array A consists of N elements
 
 OUTPUT
 19
